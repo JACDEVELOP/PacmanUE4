@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Repos\\Udemy\\PacmanUE4\\Pacman\\Source\\Pacman\\Pacman.Build.cs",
+		"D:\\Repos\\Udemy\\PacmanUE4\\Pacman\\Source\\Pacman.Target.cs",
+		"D:\\Repos\\Udemy\\PacmanUE4\\Pacman\\Source\\PacmanEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Pacman",
+			"Path": "D:\\Repos\\Udemy\\PacmanUE4\\Pacman\\Source\\Pacman.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PacmanEditor",
+			"Path": "D:\\Repos\\Udemy\\PacmanUE4\\Pacman\\Source\\PacmanEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

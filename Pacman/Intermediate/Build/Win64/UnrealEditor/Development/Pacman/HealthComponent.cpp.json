@@ -1,0 +1,24 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\repos\\udemy\\pacmanue4\\pacman\\source\\pacman\\components\\healthcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\repos\\udemy\\pacmanue4\\pacman\\intermediate\\build\\win64\\pacmaneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\repos\\udemy\\pacmanue4\\pacman\\intermediate\\build\\win64\\unrealeditor\\development\\pacman\\definitions.pacman.h",
+            "d:\\repos\\udemy\\pacmanue4\\pacman\\source\\pacman\\components\\healthcomponent.h",
+            "d:\\repos\\udemy\\pacmanue4\\pacman\\intermediate\\build\\win64\\unrealeditor\\inc\\pacman\\healthcomponent.generated.h",
+            "d:\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "d:\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "d:\\epicgames\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "d:\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\kismetsystemlibrary.generated.h",
+            "d:\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "d:\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\dialoguetypes.generated.h",
+            "d:\\epicgames\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "d:\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystaticstypes.generated.h",
+            "d:\\epicgames\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gameplaystatics.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

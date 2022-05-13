@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\repos\\udemy\\pacmanue4\\pacman\\source\\pacman\\pacman.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\repos\\udemy\\pacmanue4\\pacman\\intermediate\\build\\win64\\pacmaneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\repos\\udemy\\pacmanue4\\pacman\\intermediate\\build\\win64\\unrealeditor\\development\\pacman\\definitions.pacman.h",
+            "d:\\repos\\udemy\\pacmanue4\\pacman\\source\\pacman\\pacman.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
